@@ -6,7 +6,9 @@ background: '/img/bg-about.jpg'
 ---
 
 <div class='authorBody'>
-<img src="/img/profileImage.jpeg" class='photo2'>
+  <div class='imgDiv'>
+    <img src="/img/profileImage.jpeg" class='photo2'>
+  </div>
 <div class="author-body-description">
   <p class="mb-5">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Totam inventore
       aspernatur repellendus incidunt adipisci modi voluptates recusandae iste
@@ -44,8 +46,12 @@ background: '/img/bg-about.jpg'
 </p>
 
 <style>
+.imgDiv {
+  margin-right: 20
+}
+
 .photo2 {
-    width: 300px; height: 300px;
+    width: 200px; height: 200px;
     object-fit: cover;
     object-position: top;
     border-radius: 50%;
