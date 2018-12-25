@@ -1,20 +1,20 @@
-title:             Alpaca 개발 블로그
-email:             hs88610@gmail.com
-description:       오늘 블로그 개설함 ( 2018. 12. 25 ) 
-author:            박한성
+title: Alpaca 개발 블로그
+email: hs88610@gmail.com
+description: 오늘 블로그 개설함 ( 2018. 12. 25 )
+author: 박한성
 # baseurl:           "/startbootstrap-clean-blog-jekyll"
-baseurl:           ""
-url:               "https://parkhanseong.github.io"
+baseurl: ''
+url: 'https://parkhanseong.github.io'
 
 # Social Profiles
-twitter_username:  SBootstrap
-github_username:   BlackrockDigital
-facebook_username: StartBootstrap
+twitter_username: none
+github_username: parkhanseong
+facebook_username: 박한성
 
 # Build settings
-markdown:          kramdown
-paginate:          5
-paginate_path:     "/posts/page:num/"
+markdown: kramdown
+paginate: 5
+paginate_path: '/posts/page:num/'
 plugins:
   - jekyll-feed
   - jekyll-paginate
