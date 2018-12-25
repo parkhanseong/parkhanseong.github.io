@@ -1,8 +1,9 @@
-title:             Clean Blog
-email:             your-email@example.com
-description:       A Blog Theme by Start Bootstrap
-author:            Start Bootstrap
-baseurl:           "/startbootstrap-clean-blog-jekyll"
+title:             Alpaca 블로그
+email:             hs88610@gmail.com
+description:       오늘 블로그 개설함 ( 2018. 12. 25 ) 
+author:            박한성
+# baseurl:           "/startbootstrap-clean-blog-jekyll"
+baseurl:           "/parkhanseong.github.io"
 url:               "http://blackrockdigital.github.io"
 
 # Social Profiles
