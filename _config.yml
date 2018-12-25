@@ -3,8 +3,8 @@ email:             hs88610@gmail.com
 description:       오늘 블로그 개설함 ( 2018. 12. 25 ) 
 author:            박한성
 # baseurl:           "/startbootstrap-clean-blog-jekyll"
-baseurl:           "/parkhanseong.github.io"
-url:               "http://blackrockdigital.github.io"
+baseurl:           ""
+url:               "https://parkhanseong.github.io"
 
 # Social Profiles
 twitter_username:  SBootstrap
