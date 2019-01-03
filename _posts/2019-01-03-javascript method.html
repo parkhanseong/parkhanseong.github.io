@@ -1,0 +1,30 @@
+---
+layout: post
+title: '자바스크립트 유용한 메소드들(Array)'
+subtitle: '늘 복붙을 하다보니...'
+date: 2019-01-03 23:26:10 -0400
+background: '/img/posts/steady.jpg'
+---
+
+<h1>정확히 모르고 있었다.</h1>
+
+<p>
+  그냥 되면 깊게 생각하지 않고 그대로 사용해왔다. SI 개발자의 문제다 이게(아니
+  내 문제다...) 지금부터라도 변해야 한다.
+</p>
+
+<p>Filter ?</p>
+
+<div>
+  <textarea>
+  const cityArr = [
+    {"name":"seoul", "number": 1},    
+    {"name":"daegu", "number": 2},    
+    {"name":"busan", "number": 3},    
+  ]
+  const myCity = cityArr.filter( item => item.number === 1 )
+  console.log(myCity)
+
+  결과 : { name: 'seoul', number: 1}
+  </textarea>
+</div>
